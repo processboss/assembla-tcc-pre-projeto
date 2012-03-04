@@ -19,8 +19,14 @@ public class Teste {
 		for(Processor cpu : hal.getProcessors()) {
 		    System.out.println("\t" + cpu);
 		}
+		
 		System.out.println("Memory: " +
 		        FormatUtil.formatBytes(hal.getMemory().getAvailable()) + "/" +
 		        FormatUtil.formatBytes(hal.getMemory().getTotal()));
+		
+		EngenhariaReversaProcessadores bla2 = new EngenhariaReversaProcessadores();
+		bla2.getProcessors();
+		
+		
 	}
 }

@@ -1,6 +1,6 @@
-########################
-###### Script de teste para execução de projetos Java
-########################
+######################################################################
+###### Script de teste para execução de projetos Java ##############
+######################################################################
 
 echo "Iniciando processo de execução"
 echo "Chamando projeto para consumir memória"

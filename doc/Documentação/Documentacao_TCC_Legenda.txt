@@ -1,0 +1,14 @@
+nome_do_documento_v[0].[1].[2].ext
+
+Versão
+[0] -> 	Número da versão corrente. 
+		Apenas é mudada quando é feita alguma alteração
+		relevante quanto a estrutura geral do documento.
+		
+[1] ->	será alterado depois de que uma entrega seja eviada
+		para validação. 
+		A matéria de Redação e Documentação Técnica provavelmente contemplará as 
+		versão 1.0.x, 1.1.x, 1.2.x, sendo que a última pode não entrar. Essas alterações
+		serão as marcações de qual versão foi enviada para a avaliação (P1, P2 ou P3).
+		
+[2]	-> cada correção de bug esse valor deve ser alterado.

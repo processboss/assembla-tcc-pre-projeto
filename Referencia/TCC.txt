@@ -1,0 +1,15 @@
+- Na P2 da última aula de TCC será apresentada a documentação pronta em arquivo;
+
+- Na P3 da última aula de TCC será entregua a versão encadernada da documentação, nesse dia será apresentada a data das entregas (aproximadamente 30 dias depois);
+
+- O software será entregue 30 dias depois da defesa;
+
+- O projeto encadernado será entregue na biblioteca junto do cd 
+
+- O CD deve conter versão digital, código fonte, manual de instalação, manual do usuário, e o executável (o fonte é apenas da versao do protótipo);
+
+A banca é escolhida pelo orientador e é composta pelo diretor, orientador, coordenador, profissional externo, professor de tcc (pode haver uma sexta pessoa)
+
+- O fonte não será avaliado
+
+ 

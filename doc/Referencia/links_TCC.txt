@@ -1,0 +1,6 @@
+http://www.hardware.com.br/artigos/visualizando-processos-status/
+http://www.danbp.org/linuxcom.html
+http://www.devin.com.br/comandos_linux/
+http://www.devin.com.br/processos/#ps
+
+http://www.jardelmorais.com/java/colocando-o-jar-para-rodar-como-servico-no-windows/

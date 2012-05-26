@@ -15,9 +15,7 @@ public class ServerState implements Serializable {
 	private long freeMemory;
 	private long totalMemory;
 
-	public ServerState() {
-		// TODO Auto-generated constructor stub
-	}
+	public ServerState() {}
 
 	public long getFreeMemory() {
 		return freeMemory;

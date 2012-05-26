@@ -11,7 +11,9 @@ import br.com.processboss.core.reader.ServerStateReader;
  */
 public class ServerStateLinuxReader extends ServerStateReader {
 
+	
 	public ServerState read() {
+		//TODO marco.ollivier: fazer a implementação dessa classe baseada na engenharia reversa do Oshi.
 		return null;
 	}
 

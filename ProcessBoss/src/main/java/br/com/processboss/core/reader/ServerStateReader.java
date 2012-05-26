@@ -3,6 +3,7 @@ package br.com.processboss.core.reader;
 import br.com.processboss.core.model.ServerState;
 import br.com.processboss.core.reader.impl.ServerStateLinuxReader;
 import br.com.processboss.core.reader.impl.ServerStateWindowsReader;
+import br.com.processboss.core.util.ServerSystemInformation;
 
 /**
  * Interface que obtem as informacoes de hardware
@@ -20,9 +21,8 @@ public abstract class ServerStateReader {
 	 * @return
 	 */
 	public static ServerStateReader getReader(){
-		String osName = System.getProperty("os.name");
 
-		if(osName.toLowerCase().startsWith("windows")){
+		if(ServerSystemInformation.getName().startsWith("windows")){
 			return new ServerStateWindowsReader();
 		}
 		

@@ -29,9 +29,7 @@ public class TaskExecutionInfo implements Serializable,
 	private long cpuConsumer;
 	private long meanCpuConsumer;
 
-	public TaskExecutionInfo() {
-		// TODO Auto-generated constructor stub
-	}
+	public TaskExecutionInfo() {}
 
 	public long getId() {
 		return id;

@@ -3,9 +3,9 @@ package teste;
 import com.sun.jna.platform.win32.Kernel32;
 import com.sun.jna.platform.win32.Win32Exception;
 
-public class EngenhariaReversaMemoria {
+public class EngenhariaReversaMemoriaLinux {
 
-	 public EngenhariaReversaMemoria()
+	 public EngenhariaReversaMemoriaLinux()
 	    {
 	        _memory = new com.sun.jna.platform.win32.WinBase.MEMORYSTATUSEX();
         
